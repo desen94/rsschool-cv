@@ -19,6 +19,7 @@ I've excelled in a number of project management roles in diverse industries, and
 ability to adapt to any challenge that is thrown my way.
 
 At moment, I've a goal to become a frontend developer, and I'm going to it!
+
 ___
 
 ## Skills
@@ -58,8 +59,7 @@ ___
 1. [RS School, Frontend Developer 2021](https://community-z.com/events/js-intro-rss-2021q3) (Current)
 2. [ZarMarathon, React Pro](https://www.zarmarathon.com/) (May 2021)
 3. [ZarMarathon, JavaScript](https://www.zarmarathon.com/) (Apr 2021)
-4. [IT-Kamasutra, React JS - Way of the Samurai](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8) (
-   Nov 2020)
+4. [IT-Kamasutra, React JS - Way of the Samurai](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8) (Nov 2020)
 5. [itgid.info, JavaScript 2.0](https://itgid.info/course/javascript-2) (Aug 2020)
 
 ___
