@@ -395,7 +395,8 @@ body.ie ._ibg img {
   margin-bottom: 25px;
 }
 
-.social__item {
+.social__item a {
+  display: block;
   font-family: "icons";
   color: var(--text-color-1);
   font-size: 30px;
