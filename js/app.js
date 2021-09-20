@@ -643,3 +643,5 @@ window.onscroll = () => {
         contacts.classList.remove('_active')
     }
 }
+
+console.log('Самооценка на 140 из 150, подробно расписал в PR: https://github.com/desen94/rsschool-cv/pull/3')
